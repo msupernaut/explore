@@ -22,6 +22,7 @@ items:
  - CRED-CLUB/synth-android
  - kadalu/kadalu
  - krishdevdb/reseter.css
+ - anoopkunchukuttan/indic_nlp_library
  - project-sunbird
 display_name: Made in India
 created_by: mvkaran
